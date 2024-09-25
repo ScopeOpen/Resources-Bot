@@ -1,0 +1,24 @@
+{
+  "handler": {
+      "tmpGuildId": "1287740936516014141",
+      "deploy": false,
+      "mongodb": true,
+      "commands": {
+        "slash": true,
+        "user": true
+      },
+      "activities": [
+        {
+          "name": "something goes here",
+          "type": 4,
+          "state": "Watching over your servers."
+        }
+      ]
+  },
+  "development": {
+    "enabled": true
+  },
+  "embeds": {
+    "color": "FFCC00"
+  }
+}
